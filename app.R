@@ -8,7 +8,6 @@
 #
 
 library(shiny)
-runGitHub("my_first_shiny", "apt345")
 library(tidyverse)
 library(plotly)
 library(Stat2Data)
